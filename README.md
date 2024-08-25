@@ -1,4 +1,4 @@
-#  Microservices with DOcker
+#  Microservices with Docker
 
 Project Name: Advancing of Microservices Architecture with Dockers
 
